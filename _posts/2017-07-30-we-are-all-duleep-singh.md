@@ -41,7 +41,7 @@ I became interested in the Sikh history of eighteenth century after embracing my
 
 > The character of the Sikhs, or rather Sinhs ─which is the name by which the followers of Gúrú-Govind,, who are all devoted to arms, is distinguished─ is very marked. They have in general, the Hindoo cast of countenance, somewhat altered by their long beards, and are quite as active as the Mahratas, and much more robust, from their living fuller, and enjoying a better and colder climate. Their courage, which is equal to all times to that of any native of India, when wrought upon by prejudice or religion, is quite desperate.
 
-{% highlight html linenos %}
+{% endhighlight %}
 
 The Sikh nation, who have throughout their early history always appear, like a suppressed flame, to rise into higher splendour from every attempt to crush them, become, while they are oppressed, as formidable for their union as for their determined valour and unconquerable spirit of resistance; but a state of persecution and distress is the one most favourable for the action of a constitution like theirs. They are all horsemen, and have no infantry in their own country, except for the defence of their forts and villages, though they generally serve as infantry in foreign armies. They use swords, spears, matchlocks, and bows and arrows. They are bold and rather rough in their address, which appears more conspicuous to a stranger from their invariably speaking in a loud tone of voice. Talking aloud is so habitual to a Sikh, that he bawls a secret in your ear.
 
