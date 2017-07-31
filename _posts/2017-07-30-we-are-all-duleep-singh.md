@@ -6,6 +6,11 @@ comments: true
 category: articles
 ---
 
+<figure>
+  <img src="/images/Dalip_singh_winterhalter.jpg">
+  <figcaption>Duleep Singh (1838–1893) in 1854; portrait by Franz Xaver Winterhalter. </figcaption>
+</figure>
+
 On October 25, 1887 on a drizzly British morning, *The Standard* newspaper carried a letter ending with a customary salutation "*your obedient servant*" from someone who signed it as *"Sovereign of the Sikh nation, and Implacable Foe of England."* Duleep Singh, the son of the last Maharaja of Punjab, Ranjit Singh, had written this letter from Hotel Billo in Moscow on October 18. Like many Sikhs of my generation, Duleep was a man of contradictions - fighting hard to balance between his nurtured environment and his heart's call to connect with his roots.
 
 
