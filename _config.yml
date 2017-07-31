@@ -1,0 +1,47 @@
+title:            The Turban Club
+tagline:          Since 1496
+description:      Essays from the turbaned men of 21st century
+canonical: http://turbanclub.com
+
+# Owner/author information
+owner:
+  name:           Arvinder Singh
+  avatar:         avatar.png
+  bio:            "Techie, Language aficionado. Owns 70 turbans. Editor @TheTurbanClub"
+  email:          hello@theturbanclub.com
+  twitter:        turbanedman
+  github:         turbanedman
+  instagram:      turbanedman
+  location:       "Vancouver, BC"
+  # Plug in your disqus shortname!
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Open Graph customization
+opengraph:
+  locale:           en_US
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: TurbanClub
+    url: http://turbanclub.com
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Vancouver
+future:      true
+highlighter: pygments
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
