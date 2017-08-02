@@ -11,7 +11,7 @@ category: articles
   <figcaption>Duleep Singh (1838–1893) in 1854; portrait by Franz Xaver Winterhalter. </figcaption>
 </figure>
 
-On October 25, 1887 on a drizzly British morning, *The Standard* newspaper carried a letter ending with a customary salutation "*your obedient servant*" from someone who signed it as *"Sovereign of the Sikh nation, and Implacable Foe of England."* Duleep Singh, the son of the last Maharaja of Punjab, Ranjit Singh, had written this letter from Hotel Billo in Moscow on October 18. Like many Sikhs of my generation, Duleep was a man of contradictions - fighting hard to balance between his nurtured environment and his heart's call to connect with his roots.
+On October 25, 1887 on a drizzly British morning, *The Standard* newspaper carried a letter ending with a customary salutation "*your obedient servant*" from someone who signed it as *"Sovereign of the Sikh nation, and Implacable Foe of England."* Duleep Singh,  son of the last Maharaja of Punjab, Ranjit Singh, had dated this letter from Moscow on October 18, 1887. Like many Sikhs of my generation, Duleep was a man of contradictions - fighting hard to balance between his nurtured environment and call of his heart to connect with his roots.
 
 
 <figure>
@@ -19,7 +19,7 @@ On October 25, 1887 on a drizzly British morning, *The Standard* newspaper carri
   <figcaption>Duleep Singh's letter to the editor of The Standard, published on October 25, 1887. Courtesy <a href="http://www.britishnewspaperarchive.co.uk/">The British Newspaper Archive</a></figcaption>
 </figure>
 
-I became interested in the Sikh history of eighteenth century after embracing my roots and Sikh identity once completely abandoning it, just like Duleep. I have written about that journey of loosing and finding back my faith not on the banks of Satluj, but of Mississippi.[^[The Turban in the Obama McCain Debate](http://sikhchic.com/people/the_turban_in_the_obama_mccain_debate).] My newfound love for the turban - I at one time had about 70+ turbans in my collection - lead to few years later to [launch TheTurbanClub while attending a summer at Yale Business School](http://som.yale.edu/blog/2015/07/takeaways-global-pre-mba-leadership-program), and decided to publish how the men in turban were perceived in the west a century ago. It lead me to the letter mentioned above, among other gems about Sikhs.
+As a first generation Punjabi diaspora, I became interested in the Punjabi history of eighteenth century after re-embracing my roots and Sikh identity, just like Duleep once having completely abandoned it. I have written about that journey of loosing and rediscovering my identity not on the banks of Satluj, but that of Mississippi.[The Turban in the Obama McCain Debate](http://sikhchic.com/people/the_turban_in_the_obama_mccain_debate). My new-found love for the turbans - at one time I had about 70+ turbans in my collection - few years later lead me to [launch TheTurbanClub while attending a summer at Yale Business School](http://som.yale.edu/blog/2015/07/takeaways-global-pre-mba-leadership-program). I decided to publish a give away newsletter, the first edition was on how the men in turban were perceived in the west a century ago. It lead me to the letter mentioned above, among other gems about Sikhs.
 
 Flipping through European English newspapers between 1800 and 1900, there lies a trove of information.
 
