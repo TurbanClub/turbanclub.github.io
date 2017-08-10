@@ -34,11 +34,14 @@ Reading through European newspapers between 1800 and 1900 AD, lies a trove of in
 </figure>
 
 
-TKnown as Lion of Punjab, Ranjit Singh ruled under the name of Khalsa - an egalitarian order of Sikhs - although throughout his life, for political supremacy he selectively weakened the same institutions of Khalsa that lead to his rise - Sarbat Khalsa, or the grand gathering of Sikhs being one. 
+Known as Lion of Punjab, Ranjit Singh ruled under the name of Khalsa - an egalitarian order of Sikhs - although throughout his life, for political supremacy he selectively weakened the same institutions of Khalsa that lead to his rise - Sarbat Khalsa, or the grand gathering of Sikhs being one.
+
 Khalsa was formed and baptized by the tenth Guru of Sikhs, Guru Gobind Singh in 1699. The initiation to Khalsa requires a commitment to higher calls of life - universal brother / sisterhood & justice for all, while emphasizing the core tenets given by the first Guru - remembering the creator, hard work and sharing. Formation of Khalsa re-emphasized the ideas of sovereignty in Sikhs, the political sovereignty declared by the sixth teacher - Guru Hargobind. For the Khalsa, the ideas of sovereignty are repeated everyday in daily salutation - *Waheguru Jee Ka Khalsa, Waheguru Jee Kee Fateh* (Khalsa belongs only to the Creator, and to Creator alone belongs victory/destiny/end).
 
 
 The most part of 20th century, Punjabis lived in a veil of cloud.  Punjab was partitioned into two in 1947, divided between Indian and Pakistan. The identities of Western and Eastern parts of partitioned Punjab merged with Indian/Pakistani national identities. While a large number of Hindus, Muslims and a section of Sikhs embraced Indian/Pakistani nationalist identities, a larger section of Sikhs  having lost a sovereign state less than a century ago and having bled the most in the fight for independence from British,  remained at unease and somewhat confused after joining the Indian Union. The confusion is reflected from the fact that Sikhs were both at the forefront of proxy wars fighting for and against British - for British in World Wars and against British as part of Gadar movement. Similarly Sikhs in large numbers fought for and against the Indian state - for in the Indo-China, Indo-Pak wars of 1965 and 1971, and against the state after the battle of Amritsar in 1984, commonly also known as Operation Blue Star.  For many, Sikh and Punjabi identity merged as one - despite being quite dissimilar.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UITScBG_zfQ" frameborder="0" allowfullscreen></iframe>
 
 
 Partition of Punjab in 1947 displaced fifteen million people and killed more than a million. 60’s and 70’s was a struggling period for linguistic based state, which further carved the eastern Punjab to a much smaller area. 80’s and 90’s was the period of Sikh uprise against the Indian state, which was crushed with an iron fist costing another tens of thousands of Punjabi lives. In the words of historian Ajay Bhardwaj, ‘Punjabis never got the time to pause and reflect on the loss.’
